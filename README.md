@@ -83,6 +83,7 @@ cd exercicio1
 Compile e execute o arquivo Java:
 
 javac Ex01.java
+
 java Ex01
 
 
