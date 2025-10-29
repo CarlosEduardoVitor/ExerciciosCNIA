@@ -10,12 +10,19 @@ O objetivo desses exercícios é aprimorar a lógica de programação, a prátic
 Cada exercício está em sua própria pasta, com código-fonte e comentários explicativos.
 
 📦 exercicios-cnia
+ 
  ┣ SRC
+ 
  ┃ ┗ 📁 exercicio1
+
  ┃    ┗ 📄 Ex01.java
+ 
  ┃    ┗ 📄 Ex02.java
+ 
  ┃    ┗ 📄 Ex03.java
+ 
  ┃    ┗ 📄 Ex04.java
+ 
  ┗ 📄 README.md
 
 🧩 Descrição dos ExercícioS
@@ -65,7 +72,7 @@ Exemplo:
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/exercicios-java-cnia.git
+git clone https://github.com/CarlosEduardoVitor/ExerciciosCNIA
 
 
 Entre na pasta do exercício:
@@ -89,8 +96,11 @@ O treinamento tem como foco preparar os estagiários para desafios reais em dese
 ✨ Autor
 
 👤 Carlos Eduardo Vitor Souza de Jesus Pio
+
 📍 Estagiário na Omotor – CNIA
+
 📧 Carloseduardovitorso@gmai.com
+
 🔗 www.linkedin.com/in/
 carlos-eduardo-vitor
 
