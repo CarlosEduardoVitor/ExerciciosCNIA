@@ -102,8 +102,7 @@ O treinamento tem como foco preparar os estagiários para desafios reais em dese
 
 📧 Carloseduardovitorso@gmai.com
 
-🔗 www.linkedin.com/in/
-carlos-eduardo-vitor
+🔗 www.linkedin.com/in/carlos-eduardo-vitor
 
 📜 Licença
 
